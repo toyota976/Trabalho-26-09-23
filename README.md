@@ -1,5 +1,7 @@
 # Trabalho-26-09-23
 Acertar o numero de 1 a 10 com multiplos jogadores
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
